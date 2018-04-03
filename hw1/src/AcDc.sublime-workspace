@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yy",
+				"yytext"
+			],
+			[
+				"so",
+				"sort_back"
+			],
+			[
+				"sort",
+				"sort_head"
+			],
+			[
+				"sym",
+				"symtab"
+			],
+			[
+				"sy",
+				"symtab"
+			],
+			[
+				"OP_n",
+				"OP_not"
+			],
+			[
+				"OP_a",
+				"OP_and"
+			],
+			[
+				"F",
+				"Float_constant"
+			],
+			[
+				"table",
+				"table2"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"ini",
+				"Invalid"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"t",
+				"tok"
+			],
+			[
+				"ssh",
+				"ssh_key_file"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"matri",
+				"matrix_multi"
+			],
+			[
+				"l",
+				"loca"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"matrix",
+				"trans_matrix"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"h",
+				"handler"
+			],
+			[
+				"a",
+				"adj"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"de",
+				"degree"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"fi",
+				"fifo_path"
+			],
+			[
+				"handle",
+				"handler2"
+			],
+			[
+				"sig",
+				"sigaction"
+			],
+			[
+				"sa",
+				"sa_flags"
+			],
+			[
+				"act",
+				"act2"
+			],
+			[
+				"b",
+				"buff"
+			],
+			[
+				"O",
+				"O_RDONLY"
+			],
+			[
+				"nu",
+				"num_client"
+			],
+			[
+				"get",
+				"getdtablesize"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"crea",
+				"create_fifo"
+			],
+			[
+				"Fi",
+				"FILE"
+			],
+			[
+				"Path",
+				"PATH_MAX"
+			],
+			[
+				"thre",
+				"thread_data"
+			],
+			[
+				"pthread",
+				"pthread_t"
+			],
+			[
+				"thread",
+				"thread_num"
+			],
+			[
+				"err",
+				"errno"
+			],
+			[
+				"rec",
+				"recv_message"
+			],
+			[
+				"Da",
+				"Data"
+			],
+			[
+				"CSIE_",
+				"CSIEBOX_PROTOCOL_STATUS_OK"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"tmep",
+				"temp_path"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"conn",
+				"conn_fd"
+			],
+			[
+				"send",
+				"send_message"
+			],
+			[
+				"temp",
+				"temp_path"
+			],
+			[
+				"TE",
+				"temp_path"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"CSIE",
+				"CSIEBOX_PROTOCOL_MAGIC_REQ"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"day",
+				"dayinmonth"
+			],
+			[
+				"odd",
+				"oddnumber"
+			],
+			[
+				"even",
+				"evennumber"
+			],
+			[
+				"f",
+				"firstprize2"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"e",
+				"e"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"sft",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robertlee/Desktop/106上/編譯程式/hw1/test/sample8.ac",
+		"/Users/robertlee/Desktop/106上/編譯程式/hw1/src/AcDc.c",
+		"/Users/robertlee/Desktop/106上/計算機網路/hw1/config",
+		"/Users/robertlee/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sftp-config.json",
+		"/Users/robertlee/Desktop/main.c",
+		"/Users/robertlee/Desktop/暑假/Papers/HowardKao's/Nexus5Framework/copyFilesToRepo.sh",
+		"/Users/robertlee/Desktop/v.srt",
+		"/Users/robertlee/Desktop/blind.cpp",
+		"/Users/robertlee/Desktop/105學年/probalbiity 機率/final.c++",
+		"/Users/robertlee/Desktop/105學年/OS/pj2/sched_weighted_rr.c",
+		"/Users/robertlee/Downloads/linux-2.6.32.60/kernel/sched_weighted_rr.c",
+		"/Users/robertlee/Downloads/linux-2.6.32.60/test_weighted_rr/test_weighted_rr.c",
+		"/Users/robertlee/Desktop/ada/hw4/q2.cpp",
+		"/Users/robertlee/Desktop/ada/hw4/newTarjan.cpp",
+		"/Users/robertlee/Desktop/ada/hw4/tippy.cpp",
+		"/Users/robertlee/Desktop/ada/hw4/tarjan.cpp",
+		"/Users/robertlee/Desktop/ada/hw4/new.cpp",
+		"/Users/robertlee/Desktop/ada/hw4/:: A C++ program to find stnew.cpprongly connected compon",
+		"/Users/robertlee/Desktop/tippy.cpp",
+		"/Users/robertlee/Desktop/linux/sp/mp5/src/csiebox_client.c",
+		"/Users/robertlee/Desktop/linux/sp/mp5/MP5_tool-master/script/csiebox_server.sh",
+		"/Users/robertlee/Desktop/linux/sp/mp5/MP5_tool-master/script/printStatus.py",
+		"/Users/robertlee/Desktop/linux/sp/mp5/src/csiebox_server.c",
+		"/Users/robertlee/Desktop/linux/sp/mp4/src/csiebox_server_main.c",
+		"/Users/robertlee/Desktop/linux/sp/mp5/src/csiebox_server_main.c",
+		"/Users/robertlee/Desktop/linux/sp/mp5/src/csiebox_client_main.c",
+		"/Users/robertlee/Desktop/linux/sp/mp5/config/client.cfg",
+		"/Users/robertlee/Desktop/linux/sp/mp5/src/client_function.c",
+		"/Users/robertlee/Desktop/linux/sp/mp4/src/csiebox_server.c",
+		"/Users/robertlee/Desktop/csiebox_server.h",
+		"/Users/robertlee/Desktop/linux/system_programming系程/mp4/cdir/.gitignore",
+		"/Users/robertlee/Desktop/linux/sftp-config.json",
+		"/Users/robertlee/Desktop/linux/test/2123.txt",
+		"/Users/robertlee/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/robertlee/Desktop/system_programming系程/mp4/include/csiebox_server.h",
+		"/Users/robertlee/Desktop/system_programming系程/mp4/config/server.cfg",
+		"/Users/robertlee/Desktop/system_programming系程/mp4/src/server_function.c",
+		"/Users/robertlee/Desktop/system_programming系程/mp4/src/csiebox_server.c",
+		"/Users/robertlee/Desktop/system_programming系程/mp2/mp2.cpp",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/include/csiebox_client.h",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/include/csiebox_common.h",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/src/csiebox_common.c",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/src/csiebox_server.c",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/src/csiebox_client.c",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/src/inotify_test.c",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/include/csiebox_server.h",
+		"/Users/robertlee/Desktop/system_programming系程/mp3/config/server.cfg",
+		"/Users/robertlee/Desktop/ada/hw1/Persimmons/trie.cpp",
+		"/Users/robertlee/Desktop/judgegirl/q50022.c",
+		"/Users/robertlee/Desktop/dsa/homework/hw3/hw3.cpp",
+		"/Users/robertlee/Desktop/世紀帝國2 HD版/世紀帝國2 HD版/Data/blendomatic.dat",
+		"/Users/robertlee/Desktop/judgegirl/q225/friends",
+		"/Users/robertlee/Desktop/judgegirl/q89/1-3.in",
+		"/Users/robertlee/Desktop/judgegirl/q225/1.friends",
+		"/Users/robertlee/Desktop/judgegirl/q248.c",
+		"/Users/robertlee/Desktop/哲愷雷.c",
+		"/Users/robertlee/Desktop/judgegirl/q266.c",
+		"/Users/robertlee/Desktop/judgegirl/q238.c",
+		"/Users/robertlee/Desktop/judgegirl/q50004byKevin.c",
+		"/Users/robertlee/Desktop/judgegirl/q50004.c",
+		"/Users/robertlee/Desktop/judgegirl/eval.c",
+		"/Users/robertlee/Desktop/judgegirl/q74.c",
+		"/Users/robertlee/Desktop/judgegirl/q204.c",
+		"/Users/robertlee/Desktop/judgegirl/q36.c",
+		"/Users/robertlee/Desktop/judgegirl/q242.c",
+		"/Users/robertlee/Desktop/judgegirl/q97-2.c",
+		"/Users/robertlee/Desktop/judgegirl/q234.c",
+		"/Users/robertlee/Desktop/judgegirl/q97.c",
+		"/Users/robertlee/Desktop/q195.c",
+		"/Users/robertlee/Desktop/q33.c",
+		"/Users/robertlee/Desktop/q16.c",
+		"/Users/robertlee/Desktop/q14.c",
+		"/Users/robertlee/Desktop/bubblesort.c",
+		"/Users/robertlee/Desktop/q232.c",
+		"/Users/robertlee/Desktop/q234.c",
+		"/Users/robertlee/Desktop/q97.c",
+		"/Users/robertlee/Desktop/q54.c",
+		"/Users/robertlee/Desktop/q73.c",
+		"/Users/robertlee/Desktop/q244.c",
+		"/Users/robertlee/Desktop/q88.c",
+		"/Users/robertlee/Desktop/q13.c",
+		"/Users/robertlee/Desktop/q12.c",
+		"/Users/robertlee/Desktop/q15.c",
+		"/Users/robertlee/Desktop/q202.c",
+		"/Users/robertlee/Desktop/test.c",
+		"/Users/robertlee/Desktop/5.3.c",
+		"/Users/robertlee/Desktop/5.2.c",
+		"/Users/robertlee/Desktop/9:22test.c",
+		"/Users/robertlee/Desktop/4.3.c",
+		"/Users/robertlee/Desktop/q10.c",
+		"/Users/robertlee/Desktop/q240.c",
+		"/Users/robertlee/Desktop/q80.c",
+		"/Users/robertlee/Desktop/q215.c",
+		"/Users/robertlee/Desktop/q7.c",
+		"/Users/robertlee/Desktop/q283.c",
+		"/Users/robertlee/Desktop/q27.c",
+		"/Users/robertlee/Desktop/makefile",
+		"/Users/robertlee/Desktop/q4.c",
+		"/Users/robertlee/Desktop/q6.c",
+		"/Users/robertlee/Desktop/q3.c",
+		"/Users/robertlee/Desktop/q5.c",
+		"/Users/robertlee/Desktop/solve.c"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "AcDc.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/q202.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
